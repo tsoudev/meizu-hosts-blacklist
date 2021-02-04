@@ -1,8 +1,8 @@
 # Meizu hosts blacklist
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/tsoudev/meizu-hosts-blacklist/main/hosts.txt
-# Project home page: https://github.com/tsoudev/meizu-hosts-blacklist
-# Project releases: https://github.com/tsoudev/meizu-hosts-blacklist/releases
+# Fetch the latest version of this file: https://raw.githubusercontent.com/th-go/meizu-hosts-blacklist/main/hosts.txt
+# Project home page: https://github.com/th-go/meizu-hosts-blacklist
+# Project releases: https://github.com/th-go/meizu-hosts-blacklist/releases
 
 127.0.0.1  localhost
 ::1  localhost
@@ -16,22 +16,28 @@
 0.0.0.0 api.photos.meizu.com
 0.0.0.0 api.v.meizu.com
 0.0.0.0 baidu.com
+0.0.0.0 browser.in.meizu.com
 0.0.0.0 cal.meizu.com
 0.0.0.0 cc-api.in.meizu.com
 0.0.0.0 cc-res.in.meizu.com
+0.0.0.0 cfg.imtt.qq.com
+0.0.0.0 conversions.appsflyer.com
 0.0.0.0 g.meizu.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 log.avlyun.com
+0.0.0.0 logger.applovefrom.com
 0.0.0.0 mazu-hk.3g.qq.com
 0.0.0.0 mazu.3g.qq.com
 0.0.0.0 msafeclean.cloud.360safe.com
+0.0.0.0 mvconf.f.360.cn
 0.0.0.0 ni.qingmang.mobi
 0.0.0.0 pmir.3g.qq.com
 0.0.0.0 safe.meizu.com
 0.0.0.0 safe.mzres.com
 0.0.0.0 safe.res.meizu.com
 0.0.0.0 servicecut.meizu.com
+0.0.0.0 sgads.molilexue.com
 0.0.0.0 stat.m.360.cn
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 u.in.meizu.com
@@ -43,3 +49,4 @@
 0.0.0.0 uxip-res.meizu.com
 0.0.0.0 uxip.meizu.com
 0.0.0.0 www.baidu.com
+0.0.0.0 www.qq.com
